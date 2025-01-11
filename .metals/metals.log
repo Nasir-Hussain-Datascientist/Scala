@@ -806,3 +806,56 @@ INFO: Unsupported notification method: $/setTrace
 2025.01.11 15:49:44 INFO  BSP server: Still downloading:
 2025.01.11 15:49:44 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
 2025.01.11 15:49:44 INFO  BSP server: 
+2025.01.11 15:49:50 INFO  BSP server: Still downloading:
+2025.01.11 15:49:50 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:49:50 INFO  BSP server: 
+2025.01.11 15:49:55 INFO  BSP server: Still downloading:
+2025.01.11 15:49:55 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:49:55 INFO  BSP server: 
+2025.01.11 15:50:02 INFO  BSP server: Still downloading:
+2025.01.11 15:50:02 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:02 INFO  BSP server: 
+2025.01.11 15:50:08 INFO  BSP server: Still downloading:
+2025.01.11 15:50:08 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:08 INFO  BSP server: 
+2025.01.11 15:50:13 INFO  BSP server: Still downloading:
+2025.01.11 15:50:13 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:13 INFO  BSP server: 
+2025.01.11 15:50:18 INFO  BSP server: Still downloading:
+2025.01.11 15:50:18 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:18 INFO  BSP server: 
+2025.01.11 15:50:24 INFO  BSP server: Still downloading:
+2025.01.11 15:50:24 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:24 INFO  BSP server: 
+2025.01.11 15:50:29 INFO  BSP server: Still downloading:
+2025.01.11 15:50:29 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:29 INFO  BSP server: 
+2025.01.11 15:50:33 ERROR Timeout waiting for 'build/initialize' response
+2025.01.11 15:50:33 WARN  Retrying connection to the build server scala-cli
+2025.01.11 15:50:33 INFO  Running BSP server List(C:\Users\Nasar\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\datascience\scala\.scala-build\ide-options-v2.json, --json-launcher-options, D:\datascience\scala\.scala-build\ide-launcher-options.json, --envs-file, D:\datascience\scala\.scala-build\ide-envs.json, D:\datascience\scala)
+2025.01.11 15:50:34 INFO  BSP server: Downloading https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip
+2025.01.11 15:50:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\datascience\scala\.metals\bsp.trace.json or C:\Users\Nasar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.11 15:50:40 INFO  BSP server: Still downloading:
+2025.01.11 15:50:40 INFO  BSP server: https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip (0.00 %, 0 / 191161562)
+2025.01.11 15:50:40 INFO  BSP server: 
+2025.01.11 15:50:43 INFO  BSP server: (watching) Downloaded https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip
+2025.01.11 15:50:51 INFO  BSP server: Starting compilation server
+2025.01.11 15:51:01 INFO  time: Connected to build server in 2m29s
+2025.01.11 15:51:01 INFO  Connected to Build server: scala-cli v1.5.4
+2025.01.11 15:51:02 INFO  time: Imported build in 0.21s
+2025.01.11 15:51:02 INFO  running doctor check
+2025.01.11 15:51:02 INFO  java targets: scala_c279058b9f, scala_c279058b9f-test
+2025.01.11 15:51:03 INFO  compiling scala_c279058b9f (1 scala source)
+2025.01.11 15:51:07 INFO  time: compiled scala_c279058b9f in 4.07s
+2025.01.11 15:51:07 INFO  compiling scala_c279058b9f (1 scala source)
+2025.01.11 15:51:07 INFO  time: compiled scala_c279058b9f in 0.21s
+2025.01.11 15:51:28 INFO  time: indexed workspace in 26s
+2025.01.11 15:51:29 INFO  compiling scala_c279058b9f (1 scala source)
+2025.01.11 15:51:29 INFO  time: compiled scala_c279058b9f in 0.22s
+2025.01.11 15:51:29 INFO  compiling scala_c279058b9f (1 scala source)
+2025.01.11 15:51:30 INFO  time: compiled scala_c279058b9f in 0.28s
+2025.01.11 15:55:50 WARN  Could not find semantic tokens for: file:///D:/datascience/scala/hello.scala
+2025.01.11 15:56:04 INFO  Shutting down server
+2025.01.11 15:56:04 INFO  shutting down Metals
+2025.01.11 15:56:04 INFO  Shut down connection with build server.
+2025.01.11 15:56:04 INFO  Exiting server
